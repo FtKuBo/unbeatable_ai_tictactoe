@@ -1,1 +1,1 @@
-[GUI](./image/tictactoe)
+UNWINABLE TICTACTOE GAME VS AN AI
